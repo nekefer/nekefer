@@ -19,7 +19,7 @@ I have a passion for front-end development and continuously strive to enhance my
 
 ## 💼 Featured Projects
 
-### [Linguini](https://github.com/nekefer/Linguini-FrontEnd)
+### [Linguini](https://languni.dev)
 A full-stack language translation application
 - **Frontend:** JavaScript/React
 - **Backend:** Python/FastAPI
